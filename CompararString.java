@@ -1,4 +1,5 @@
 // Los métodos equals, equalsIgnoreCase, compareTo y regionMatches de String.
+//modificando desde usuarioinvitado
 import javax.swing.JOptionPane;
 
 public class CompararString {
